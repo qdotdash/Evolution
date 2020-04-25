@@ -14,6 +14,7 @@ generation, we do the following:
 1. Create a random string of the same word size 
 2. Now keeping the letters of the target word as survival genes we mutate and select the fittest every 10 generations.
 3. Do this mutation and selection until the target word or sentence is reached.
+
 As you might be able to see, with natural selection according to survival, you can create any complex life form. All it takes is a
 hell lot of time and the error in copying genes. 
 Cheers!! :D
