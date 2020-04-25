@@ -2,7 +2,7 @@
 A cpp program demonstrating evolution by natural selection. 
 In these programs, I consider words or a complex sentence to be analogous to a complex organism. Genes are the letters making the word.
 We are all interested in knowing how it all began. 
-*Input in caps*
+***Input in caps***
 # basic_evolution.cpp
 We input a target word and try to create it from random word generation. Sometimes practically impossible, 
 sometimes achievable by luck, sometimes we get a close neighbour of the word after some several thousand generations. From this, it can
